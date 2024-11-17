@@ -38,26 +38,9 @@ p {
   display: none !important;
 }
 
-/* .page-wrapper {
-  width: 100%;
-  padding-left: 1%;
-  padding-right: 1%;
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: rgb(255, 255, 255);
-} */
-
-/* .main-wrapper {
-  width: 100%;
-  max-width: 80rem;
-  margin-left: auto;
-  margin-right: auto;
-  background-color: #fff;
-} */
-
 .padding-section-large {
-  padding-top: 8rem;
-  padding-bottom: 8rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .pricing-header-features {
@@ -83,6 +66,7 @@ p {
   font-size: 4rem;
   line-height: 1.1;
   font-weight: 700;
+  text-align: left !important;
 }
 
 .ph-text {
@@ -147,18 +131,12 @@ p {
   grid-row-gap: 2px;
 }
 
-.pricing-h1-title {
-  color: #053552;
-  font-size: 4rem;
-  line-height: 1.1;
-  font-weight: 700;
-}
-
 .pricing-h2-title {
   color: #053552;
   font-size: 3rem;
   line-height: 1.2;
   font-weight: 700;
+  text-align: left !important;
 }
 
 .w-inline-block {
@@ -423,6 +401,7 @@ p {
 
   .pricing-h1-title {
     font-size: 2.5rem;
+    text-align: center !important;
   }
 
   .pricing-header-main-cta {
@@ -446,12 +425,9 @@ p {
     text-align: center;
   }
 
-  .pricing-h1-title {
-    font-size: 2.5rem;
-  }
-
   .pricing-h2-title {
     font-size: 2rem;
+    text-align: left !important;
   }
 
   /* Tabs */

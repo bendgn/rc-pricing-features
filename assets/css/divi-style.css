@@ -38,26 +38,9 @@ p {
   display: none !important;
 }
 
-/* .page-wrapper {
-  width: 100%;
-  padding-left: 1%;
-  padding-right: 1%;
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: rgb(255, 255, 255);
-} */
-
-/* .main-wrapper {
-  width: 100%;
-  max-width: 80rem;
-  margin-left: auto;
-  margin-right: auto;
-  background-color: #fff;
-} */
-
 #et-boc .et-l div .padding-section-large {
-  padding-top: 8rem;
-  padding-bottom: 8rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 #et-boc .et-l div .pricing-header-features {
@@ -83,6 +66,7 @@ p {
   font-size: 4rem;
   line-height: 1.1;
   font-weight: 700;
+  text-align: left !important;
 }
 
 #et-boc .et-l div .ph-text {
@@ -147,18 +131,12 @@ p {
   grid-row-gap: 2px;
 }
 
-#et-boc .et-l div .et-l div .pricing-h1-title {
-  color: #053552;
-  font-size: 4rem;
-  line-height: 1.1;
-  font-weight: 700;
-}
-
 #et-boc .et-l div .pricing-h2-title {
   color: #053552;
   font-size: 3rem;
   line-height: 1.2;
   font-weight: 700;
+  text-align: left !important;
 }
 
 #et-boc .et-l div .w-inline-block {
@@ -423,6 +401,7 @@ p {
 
   #et-boc .et-l div .pricing-h1-title {
     font-size: 2.5rem;
+    text-align: center !important;
   }
 
   #et-boc .et-l div .pricing-header-main-cta {
@@ -444,10 +423,6 @@ p {
     grid-column-gap: 0.25rem;
     grid-row-gap: 0.25rem;
     text-align: center;
-  }
-
-  #et-boc .et-l div .pricing-h1-title {
-    font-size: 2.5rem;
   }
 
   #et-boc .et-l div .pricing-h2-title {
