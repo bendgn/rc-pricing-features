@@ -3,7 +3,7 @@
  * Plugin Name: RaveCapture Pricing Features Table
  * Plugin URI: https://github.com/bendgn/rc-pricing-features
  * Description: A simple pricing features table for RaveCapture Pricing Page.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Benjie Dagunan
  * Author URI: https://benjiedagunan.me
  * License: GPL2
